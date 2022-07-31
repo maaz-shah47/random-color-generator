@@ -1,0 +1,2 @@
+module RandomBackgroundHelper
+end
